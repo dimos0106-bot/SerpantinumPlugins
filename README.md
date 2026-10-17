@@ -19,7 +19,7 @@ Independent add-ons designed to make Serpantinum more useful, expressive, and cu
 
 | Plugin | Description | Status |
 |---|---|---|
-| **Music Wallpaper** | Finds wallpapers that match the album artwork of the currently playing track, with music-player integration and configurable wallpaper folders. | First plugin · v2.8.0 |
+| **Music Wallpaper** | Finds wallpapers that match the album artwork of the currently playing track, with music-player integration and configurable wallpaper folders. | First plugin · v1.0.0 |
 
 > The collection is under active development. Compatibility and installation requirements will be documented for each plugin.
 
