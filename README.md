@@ -4,7 +4,7 @@
 
 <p>
   <img src="assets/serpantinum-pixel-loop.gif" width="36" height="36" alt="Animated pixel Serpantinum emblem">
-  &nbsp;<strong>PIXEL PLUGIN ECOSYSTEM</strong>&nbsp;
+  &nbsp;<strong>PLUGIN ECOSYSTEM</strong>&nbsp;
   <img src="assets/serpantinum-pixel-loop.gif" width="36" height="36" alt="Animated pixel Serpantinum emblem">
 </p>
 
@@ -12,8 +12,6 @@
 
 <p><strong>Make your desktop feel like your own.</strong><br>
 Plugins, integrations, and little details that make Serpantinum more personal.</p>
-
-<img src="assets/serpantinum-pixel-banner.gif" width="100%" alt="Animated pixel-art Serpantinum banner">
 
 <br>
 
@@ -82,30 +80,6 @@ Plugins, integrations, and little details that make Serpantinum more personal.</
 
 > The collection is evolving. Check each plugin's own README for its current version, compatibility, dependencies, installation steps, and known limitations.
 
-## ▸ Quick start
-
-### 1. Get the source
-
-```bash
-git clone https://github.com/dimos0106-bot/SerpantinumPlugins.git
-cd SerpantinumPlugins
-```
-
-### 2. Pick your extension
-
-Browse the `plugins/` folder, then read that plugin's README before installing it.
-
-### 3. Follow its setup guide
-
-Requirements can differ by extension. Keep a backup of relevant Serpantinum configuration before applying updates.
-
-<div align="center">
-  <br>
-  <img src="assets/serpantinum-pixel-loop.gif" width="52" alt="Animated pixel Serpantinum emblem">
-  <p><strong>BOOT SEQUENCE COMPLETE?</strong></p>
-  <sub>Check the plugin guide before enabling it on your system.</sub>
-</div>
-
 ## ◫ Repository map
 
 ```text
@@ -125,23 +99,7 @@ SerpantinumPlugins/
 └── README.md
 ```
 
-## ⌘ Contribute
 
-Want to report a bug or pitch an idea? Open an [issue](https://github.com/dimos0106-bot/SerpantinumPlugins/issues). For useful reports, include the plugin name, version, steps to reproduce, and relevant redacted logs.
-
-Read [CONTRIBUTING.md](CONTRIBUTING.md) before sending changes. Never publish access tokens, private keys, or other sensitive data in issues or screenshots.
-
-## ▤ License
-
-No repository-wide licence has been selected yet. Unless a licence is added to this repository or a specific plugin, do not assume redistribution or reuse is permitted.
-
----
-
-<div align="center">
-
-<img src="assets/serpantinum-pixel-loop.gif" width="44" alt="Animated pixel Serpantinum emblem">
-
-<h3>STAY PIXEL. STAY PERSONAL.</h3>
 
 <sub>Serpantinum Plugins · Built for a desktop that feels like yours.</sub>
 
