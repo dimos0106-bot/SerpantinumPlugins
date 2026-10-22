@@ -33,31 +33,6 @@ Plugins, integrations, and little details that make Serpantinum more personal.</
 
 </div>
 
----
-
-## ◈ The vibe
-
-This repository is a home for small, focused extensions for [Serpantinum Shell](https://github.com/ilyamiro/serpantinum). The idea: useful features, a coherent interface, and a desktop that feels distinctly yours.
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <p><strong>01 / MODULAR</strong></p>
-      <h3>🧩 Your plugins</h3>
-      Import extensions and manage each one independently.
-    </td>
-    <td width="33%" valign="top">
-      <p><strong>02 / PERSONAL</strong></p>
-      <h3>🎨 Built around you.</h3>
-      Tune the details, choose your folders, and shape your workflow.
-    </td>
-    <td width="33%" valign="top">
-      <p><strong>03 / NATIVE</strong></p>
-      <h3>⌘ Feels at home.</h3>
-      Plugins aim to reuse Serpantinum's settings, folder picker, and localisation where possible.
-    </td>
-  </tr>
-</table>
 
 ## ▣ Showcase
 
