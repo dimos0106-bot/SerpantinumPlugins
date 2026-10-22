@@ -1,129 +1,139 @@
 <div align="center">
-  <img src="assets/serpantinum-hero.svg" width="100%" alt="Serpantinum Plugins — desktop extensions for a more personal Linux workspace">
 
-  <br>
+# Serpantinum Plugins
 
-  <p>
-    <a href="https://github.com/dimos0106-bot/SerpantinumPlugins"><img src="https://img.shields.io/badge/PROJECT-SERPANTINUM%20PLUGINS-8B7CFF?style=for-the-badge&amp;labelColor=111426" alt="Serpantinum Plugins"></a>
-    <a href="https://github.com/ilyamiro/serpantinum"><img src="https://img.shields.io/badge/BUILT%20FOR-SERPANTINUM-58DCCB?style=for-the-badge&amp;labelColor=111426" alt="Built for Serpantinum"></a>
-    <a href="https://github.com/dimos0106-bot/SerpantinumPlugins/commits/main"><img src="https://img.shields.io/github/last-commit/dimos0106-bot/SerpantinumPlugins?style=for-the-badge&amp;label=UPDATED&amp;color=7288FF&amp;labelColor=111426" alt="Last commit"></a>
-  </p>
+### Extensions for a desktop that feels like yours.
 
-  <p><strong>Small extensions. A desktop that feels like yours.</strong></p>
-  <p>A growing collection of add-ons for <a href="https://github.com/ilyamiro/serpantinum">Serpantinum Shell</a>, built around personalisation, useful integrations, and a more coherent Linux desktop.</p>
+A growing collection of add-ons for [Serpantinum Shell](https://github.com/ilyamiro/serpantinum) — with a dedicated plugin manager, configurable extensions, and a music-aware wallpaper plugin.
 
-  <p>
-    <a href="#-plugin-library">Explore plugins</a> ·
-    <a href="#-getting-started">Getting started</a> ·
-    <a href="#-contributing">Contribute</a>
-  </p>
+<p>
+  <a href="https://github.com/dimos0106-bot/SerpantinumPlugins/stargazers"><img src="https://img.shields.io/github/stars/dimos0106-bot/SerpantinumPlugins?style=flat-square&color=e5c96a&label=Stars" alt="GitHub stars"></a>
+  <a href="https://github.com/dimos0106-bot/SerpantinumPlugins/network/members"><img src="https://img.shields.io/github/forks/dimos0106-bot/SerpantinumPlugins?style=flat-square&color=8c83ed&label=Forks" alt="GitHub forks"></a>
+  <a href="https://github.com/dimos0106-bot/SerpantinumPlugins/commits/main"><img src="https://img.shields.io/github/last-commit/dimos0106-bot/SerpantinumPlugins?style=flat-square&color=59c9b5&label=Updated" alt="Last commit"></a>
+  <img src="https://img.shields.io/badge/platform-Linux-f1d47a?style=flat-square" alt="Linux">
+  <img src="https://img.shields.io/badge/shell-Serpantinum-aaa0ff?style=flat-square" alt="Serpantinum Shell">
+</p>
+
+<p>
+  <a href="#-screenshots">Screenshots</a> ·
+  <a href="#-plugins">Plugins</a> ·
+  <a href="#-getting-started">Getting started</a> ·
+  <a href="#-contributing">Contributing</a>
+</p>
+
 </div>
 
 ---
 
-## ✦ The idea
+## ✦ Made for your workflow
 
-Serpantinum Plugins is a home for extensions that add focused features to your desktop without turning the shell into a different product. Each plugin should stay as self-contained as possible, document its own requirements, and fit naturally into Serpantinum's interface.
+Serpantinum Plugins is a home for small, focused extensions that fit into the desktop instead of feeling like separate apps. The goal is simple: make plugins easy to import, control, configure, and improve.
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>◈ Modular</h3>
-      Pick the extensions you need instead of installing one giant bundle.
+      <h3>▦ Plugin manager</h3>
+      Import `.plugin` files, see installed extensions, and enable, disable, configure, or remove them from one place.
     </td>
     <td width="33%" valign="top">
-      <h3>⌘ Native-feeling</h3>
-      Prefer Serpantinum's own settings, file pickers, and localisation where available.
+      <h3>♫ Personalisation</h3>
+      Connect desktop visuals to the music you play and tune the effect to your setup.
     </td>
     <td width="33%" valign="top">
-      <h3>↗ Evolving</h3>
-      New plugins and improvements can be added independently as the collection grows.
+      <h3>⌘ Native integration</h3>
+      Prefer Serpantinum's own settings UI, folder picker, and localisation wherever possible.
     </td>
   </tr>
 </table>
 
-## 🧩 Plugin library
+## 🖼️ Screenshots
+
+<div align="center">
+  <img src="assets/Screenshot_2026-10-22-171208.png" alt="Serpantinum Plugins showing the installed Music Wallpaper extension" width="100%">
+  <sub>**Plugin manager** · See installed extensions and access their controls.</sub>
+</div>
 
 <table>
   <tr>
-    <td width="76" align="center" valign="top">
-      <div align="center">🎵</div>
+    <td width="50%" valign="top">
+      <img src="assets/Screenshot_2026-10-22-171212.png" alt="Music Wallpaper settings with wallpaper folder, tint strength, and current colour" width="100%">
+      <p align="center"><strong>Music Wallpaper settings</strong><br><sub>Choose a folder and adjust the colour tint.</sub></p>
     </td>
-    <td valign="top">
-      <h3><a href="plugins/music-wallpaper/README.md">Music Wallpaper</a></h3>
-      <p><strong>v2.8.0</strong> · Serpantinum plugin</p>
-      <p>Connect the visual mood of your desktop to the music you're playing. The plugin detects current media, searches a configured wallpaper folder for artwork-related matches, and provides its settings inside Serpantinum's Plugins tab.</p>
-      <p>
-        <code>Media detection</code>
-        <code>Wallpaper matching</code>
-        <code>Native folder picker</code>
-        <code>Localisation</code>
-      </p>
-      <p><a href="plugins/music-wallpaper/README.md">Read plugin documentation →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <sub>More plugins can be added to the collection. Compatibility, dependencies, and installation steps should be checked in each plugin's own documentation.</sub>
+    <td width="50%" valign="top">
+      <img src="assets/Screenshot_2026-10-22-171150.png" alt="Empty plugin manager with the Add plugin action" width="100%">
+      <p align="center"><strong>Empty state</strong><br><sub>Start by adding a `.plugin` package.</sub></p>
     </td>
   </tr>
 </table>
+
+## 🧩 Plugins
+
+### Music Wallpaper
+
+A Serpantinum extension that connects wallpaper colours with the artwork of the currently playing track.
+
+- Detects the current media session.
+- Searches a configured wallpaper folder for artwork-related matches.
+- Includes a tint-strength control and colour preview.
+- Provides settings from Serpantinum's Plugins section.
+- Uses Serpantinum's native folder picker and localisation integration where available.
+
+**Documentation:** [Music Wallpaper README](plugins/music-wallpaper/README.md)
+
+> Check the plugin's own documentation for version details, requirements, installation steps, and known limitations.
 
 ## 🚀 Getting started
 
-**1. Get the repository**
+**1. Clone the repository**
 
 ```bash
 git clone https://github.com/dimos0106-bot/SerpantinumPlugins.git
 cd SerpantinumPlugins
 ```
 
-**2. Choose a plugin**
+**2. Choose an extension**
 
-Open the plugin's directory and read its `README.md` before making changes to your system.
+Open the relevant folder under `plugins/` and read its README before installing or changing your setup.
 
-**3. Follow its instructions**
+**3. Follow the extension-specific instructions**
 
-Every plugin can have different requirements. Use the installation and restart steps documented for that specific plugin; do not assume one command works for the entire collection.
+Dependencies and installation procedures can differ between plugins. Keep a backup of your Serpantinum configuration before applying updates.
 
-> **Development status:** the collection is evolving. Check the plugin's supported Serpantinum revision and available package files before installing it. Keep a backup of relevant configuration.
-
-## 🗂️ Repository layout
+## 🗂️ Project structure
 
 ```text
 SerpantinumPlugins/
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   └── PULL_REQUEST_TEMPLATE.md
 ├── assets/
-│   └── serpantinum-hero.svg
+│   ├── Screenshot_2026-10-22-171150.png
+│   ├── Screenshot_2026-10-22-171208.png
+│   └── Screenshot_2026-10-22-171212.png
 ├── plugins/
 │   └── music-wallpaper/
 │       └── README.md
+├── CONTRIBUTING.md
 └── README.md
 ```
 
-The root README describes the collection; each plugin's own documentation should contain its specific features, compatibility notes, installation steps, and known limitations.
+## 🌐 Integration principles
 
-## 🌐 Localisation & integration
-
-Where possible, plugins should follow the language selected in Serpantinum settings and reuse the shell's native UI components. This helps extensions feel like part of the desktop rather than separate applications.
+New extensions should stay as self-contained as practical, clearly state the Serpantinum versions and dependencies they support, and document how to install, update, and remove them. When possible, use Serpantinum's native controls and language system.
 
 ## 🤝 Contributing
 
-Ideas, bug reports, and improvements are welcome.
+Have an idea or found a bug? Use the repository's **Issues** tab. Include the plugin name, its version, your Serpantinum setup, and concise steps to reproduce the issue. Remove personal paths, tokens, and other sensitive information from logs before sharing them.
 
-When reporting a problem, include:
-- the plugin name and version;
-- your Serpantinum version and relevant environment details;
-- steps to reproduce the issue and relevant, **redacted** logs.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the project guidelines.
 
-Keep personal tokens, private keys, and other sensitive information out of public reports.
+## 📜 License
 
-## 📜 Licensing
-
-No repository-wide licence has been selected yet. Unless a licence is added to the repository or to an individual plugin, do not assume that redistribution or reuse is permitted.
+No repository-wide licence has been selected yet. Unless a licence is added to the repository or to an individual plugin, do not assume redistribution or reuse is permitted.
 
 ---
 
 <div align="center">
-  <p><strong>Make the desktop yours.</strong></p>
-  <sub>Serpantinum Plugins · Project in development</sub>
+  <strong>Small extensions. More personal desktop.</strong><br>
+  <sub>Built around Serpantinum Shell · Project in development</sub>
 </div>
