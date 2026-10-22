@@ -4,9 +4,9 @@
   <br>
 
   <p>
-    <a href="https://github.com/dimos0106-bot/SerpantinumPlugins"><img src="https://img.shields.io/badge/PROJECT-SERPANTINUM%20PLUGINS-8B7CFF?style=for-the-badge&labelColor=111426" alt="Serpantinum Plugins"></a>
-    <a href="https://github.com/ilyamiro/serpantinum"><img src="https://img.shields.io/badge/BUILT%20FOR-SERPANTINUM-58DCCB?style=for-the-badge&labelColor=111426" alt="Built for Serpantinum"></a>
-    <a href="https://github.com/dimos0106-bot/SerpantinumPlugins/commits/main"><img src="https://img.shields.io/github/last-commit/dimos0106-bot/SerpantinumPlugins?style=for-the-badge&label=UPDATED&color=7288FF&labelColor=111426" alt="Last commit"></a>
+    <a href="https://github.com/dimos0106-bot/SerpantinumPlugins"><img src="https://img.shields.io/badge/PROJECT-SERPANTINUM%20PLUGINS-8B7CFF?style=for-the-badge&amp;labelColor=111426" alt="Serpantinum Plugins"></a>
+    <a href="https://github.com/ilyamiro/serpantinum"><img src="https://img.shields.io/badge/BUILT%20FOR-SERPANTINUM-58DCCB?style=for-the-badge&amp;labelColor=111426" alt="Built for Serpantinum"></a>
+    <a href="https://github.com/dimos0106-bot/SerpantinumPlugins/commits/main"><img src="https://img.shields.io/github/last-commit/dimos0106-bot/SerpantinumPlugins?style=for-the-badge&amp;label=UPDATED&amp;color=7288FF&amp;labelColor=111426" alt="Last commit"></a>
   </p>
 
   <p><strong>Small extensions. A desktop that feels like yours.</strong></p>
@@ -47,12 +47,12 @@ Serpantinum Plugins is a home for extensions that add focused features to your d
 <table>
   <tr>
     <td width="76" align="center" valign="top">
-      <img src="https://img.shields.io/badge/♫-101426?style=for-the-badge&labelColor=101426" alt="Music icon">
+      <div align="center">🎵</div>
     </td>
     <td valign="top">
       <h3><a href="plugins/music-wallpaper/README.md">Music Wallpaper</a></h3>
       <p><strong>v2.8.0</strong> · Serpantinum plugin</p>
-      Connect the visual mood of your desktop to the music you're playing. The plugin detects current media, searches a configured wallpaper folder for artwork-related matches, and provides its settings inside Serpantinum's Plugins tab.</p>
+      <p>Connect the visual mood of your desktop to the music you're playing. The plugin detects current media, searches a configured wallpaper folder for artwork-related matches, and provides its settings inside Serpantinum's Plugins tab.</p>
       <p>
         <code>Media detection</code>
         <code>Wallpaper matching</code>
@@ -125,5 +125,5 @@ No repository-wide licence has been selected yet. Unless a licence is added to t
 
 <div align="center">
   <p><strong>Make the desktop yours.</strong></p>
-  <sub>Serpantinum Plugins · Open-source project in development</sub>
+  <sub>Serpantinum Plugins · Project in development</sub>
 </div>
