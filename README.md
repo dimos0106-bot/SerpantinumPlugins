@@ -1,15 +1,15 @@
+<h1 align="center">Serpantinum Plugins</h1>
+
 <div align="center">
 
-# Serpantinum Plugins
+<h3>Extensions for a desktop that feels like yours.</h3>
 
-### Extensions for a desktop that feels like yours.
-
-A growing collection of add-ons for [Serpantinum Shell](https://github.com/ilyamiro/serpantinum) — with a dedicated plugin manager, configurable extensions, and a music-aware wallpaper plugin.
+<p>A growing collection of add-ons for <a href="https://github.com/ilyamiro/serpantinum">Serpantinum Shell</a> — with a dedicated plugin manager, configurable extensions, and a music-aware wallpaper plugin.</p>
 
 <p>
-  <a href="https://github.com/dimos0106-bot/SerpantinumPlugins/stargazers"><img src="https://img.shields.io/github/stars/dimos0106-bot/SerpantinumPlugins?style=flat-square&color=e5c96a&label=Stars" alt="GitHub stars"></a>
-  <a href="https://github.com/dimos0106-bot/SerpantinumPlugins/network/members"><img src="https://img.shields.io/github/forks/dimos0106-bot/SerpantinumPlugins?style=flat-square&color=8c83ed&label=Forks" alt="GitHub forks"></a>
-  <a href="https://github.com/dimos0106-bot/SerpantinumPlugins/commits/main"><img src="https://img.shields.io/github/last-commit/dimos0106-bot/SerpantinumPlugins?style=flat-square&color=59c9b5&label=Updated" alt="Last commit"></a>
+  <a href="https://github.com/dimos0106-bot/SerpantinumPlugins/stargazers"><img src="https://img.shields.io/github/stars/dimos0106-bot/SerpantinumPlugins?style=flat-square&amp;color=e5c96a&amp;label=Stars" alt="GitHub stars"></a>
+  <a href="https://github.com/dimos0106-bot/SerpantinumPlugins/network/members"><img src="https://img.shields.io/github/forks/dimos0106-bot/SerpantinumPlugins?style=flat-square&amp;color=8c83ed&amp;label=Forks" alt="GitHub forks"></a>
+  <a href="https://github.com/dimos0106-bot/SerpantinumPlugins/commits/main"><img src="https://img.shields.io/github/last-commit/dimos0106-bot/SerpantinumPlugins?style=flat-square&amp;color=59c9b5&amp;label=Updated" alt="Last commit"></a>
   <img src="https://img.shields.io/badge/platform-Linux-f1d47a?style=flat-square" alt="Linux">
   <img src="https://img.shields.io/badge/shell-Serpantinum-aaa0ff?style=flat-square" alt="Serpantinum Shell">
 </p>
@@ -50,7 +50,7 @@ Serpantinum Plugins is a home for small, focused extensions that fit into the de
 
 <div align="center">
   <img src="assets/Screenshot_2026-10-22-171208.png" alt="Serpantinum Plugins showing the installed Music Wallpaper extension" width="100%">
-  <sub>**Plugin manager** · See installed extensions and access their controls.</sub>
+  <sub><strong>Plugin manager</strong> · See installed extensions and access their controls.</sub>
 </div>
 
 <table>
