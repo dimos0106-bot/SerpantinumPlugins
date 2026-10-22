@@ -31,8 +31,6 @@ Plugins, integrations, and little details that make Serpantinum more personal.</
   <a href="#-contribute">CONTRIBUTE</a>
 </p>
 
-<sub>▰▰▰▰▰▰▰▰▱▱ &nbsp; DESKTOP PERSONALISATION IN PROGRESS &nbsp; ▱▱▱▱▰▰▰▰▰▰</sub>
-
 </div>
 
 ---
@@ -45,7 +43,7 @@ This repository is a home for small, focused extensions for [Serpantinum Shell](
   <tr>
     <td width="33%" valign="top">
       <p><strong>01 / MODULAR</strong></p>
-      <h3>🧩 Your plugins. Your rules.</h3>
+      <h3>🧩 Your plugins</h3>
       Import extensions and manage each one independently.
     </td>
     <td width="33%" valign="top">
